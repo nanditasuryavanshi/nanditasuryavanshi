@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**nanditasuryavanshi/nanditasuryavanshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Thank you for visting my GitHub profile!
 
-Here are some ideas to get you started:
+🔭 I've about 10 Years of experience in working with PHP, 8 years with Laravel/Yii and 3 Years with Vuejs/React.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My Top Skills
+
+- PHP
+- Laravel
+- Yii2
+- VueJS
+- JavaScript
+- MySQL
+- HTML/HTML5
+- CSS/CSS3
+- SCSS
+- Python
+
+
+⚡ Fun fact: I love coffee ☕ and my zzz 💤, always ready to do something exicting! 
